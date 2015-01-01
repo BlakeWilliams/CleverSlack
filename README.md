@@ -13,13 +13,14 @@ SLACK_TOKEN=abc-123 mix run --no-halt
 
 ## Talking
 
-The bot assumes you always directly reference him. If your bots name is "Fred"
+The bot assumes you always directly reference him. If your bots name is "fred"
 you can talk to him like so:
 
 ```
 blake: @fred: Whatsup?
-fred: How are you doing?
-blake: fred Good, you?
+fred: Okay sure, whatsup?
+blake: fred Programming
+fred: Computed programming.
 ```
 
 The rules are somewhat flexible, like permitting a single leading character and
